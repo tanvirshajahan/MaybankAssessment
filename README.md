@@ -8,7 +8,6 @@ Brief description or overview of This Project.
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
 ## Introduction
